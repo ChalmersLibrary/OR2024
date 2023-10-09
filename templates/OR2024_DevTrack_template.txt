@@ -1,0 +1,35 @@
+OR2024 Developer Track Submission
+
+The 19th International Conference on Open Repositories, June 3-6th 2024, Göteborg, Sweden
+
+For authors: Follow the directions and where appropriate replace with your own content.
+
+A reminder that the theme for OR2024 is: "Empowering Global Progress"
+
+OR2024 provides an opportunity to explore and reflect on the ways repositories enable transparent and sustainable information and data. How can we better utilize repositories for empowering global progress? How can we develop the capacity of institutions to implement sustainable open repositories to improve data equity worldwide and support the SDGs? How can the repository community harness AI responsibly to support their goals?  We are interested in the following sub-themes:
+	- Transparency: Promoting research  transparency
+	- Community: Elevating underrepresented communities
+	- Sustainability: Opening research for climate justice
+
+You will be asked to select a sub-theme at the time of submission.
+
+Title of Proposal
+
+Author 1 name, affiliation, email address; Author 2 name, affiliation, email address
+
+Abstract
+Summary of your proposal; maximum 200 words. The abstract should be a concise summary of the background, problem, approach and conclusions of the work described. You will copy and paste this into the submission system at the time of submission.
+
+Keywords
+List 3-4 key terms or phrases that describe the subject of the proposal.
+
+Proposal (no longer than one page)
+	- Please describe what you propose to cover. Keep in mind that the Developer Track presentations tend to be about 15-20 minutes. We encourage live demonstrations, tours of code repositories, examples of cool features, and the sharing of unique viewpoints.
+	- Please include what technologies you will cover or reference.
+	- The proposal should be in English and be no longer than a page.
+
+Technical Requirements
+	- Include any requirements you will need for your presentation (for example, wi-fi, etc.)
+
+References, if applicable
+Use any clear unambiguous reference style you like.
