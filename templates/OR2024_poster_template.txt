@@ -7,14 +7,13 @@ For authors: Follow the directions and where appropriate replace with your own c
 A reminder that the theme for OR2024 is: “Empowering Global Progress”
 
 OR2024 provides an opportunity to explore and reflect on the ways repositories enable transparent and sustainable information and data. How can we better utilize repositories for empowering global progress? How can we develop the capacity of institutions to implement sustainable open repositories to improve data equity worldwide and support the SDGs? How can the repository community harness AI responsibly to support their goals?  We are interested in the following sub-themes:
-	- Transparency: Promoting research  transparency
-	- Community: Elevating underrepresented communities
-	- Sustainability: Opening research for climate justice
+ - Transparency: Promoting research  transparency
+ - Community: Elevating underrepresented communities
+ - Sustainability: Opening research for climate justice
 
 You will be asked to select a sub-theme at the time of submission.
 
 Title of Proposal
-
 Author 1 name, affiliation, email address; Author 2 name, affiliation, email address
 
 Abstract
@@ -27,10 +26,10 @@ Audience
 Tell us in a sentence or two who is the likely audience for this. Some examples might be repository managers, developers, data producers, librarians, etc.
 
 Proposal (no longer than 1 page)
-	- Tell us what you will cover in the poster. Why will your poster be of interest to the intended audience? As a reminder, posters most often cover ongoing work that is not yet ready for a full presentation.
-	- Explain how a visual presentation will help you to convey key points.
-	- All accepted posters are expected to provide one slide to be presented in a one minute teaser session.
-	- Your proposal should be in English and no longer than 1 page.
+ - Tell us what you will cover in the poster. Why will your poster be of interest to the intended audience? As a reminder, posters most often cover ongoing work that is not yet ready for a full presentation.
+ - Explain how a visual presentation will help you to convey key points.
+ - All accepted posters are expected to provide one slide to be presented in a one minute teaser session.
+ - Your proposal should be in English and no longer than 1 page.
 
 References, if applicable
 Use any clear unambiguous reference style you like.

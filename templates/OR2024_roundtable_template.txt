@@ -7,9 +7,9 @@ For authors: Follow the directions and where appropriate replace with your own c
 A reminder that the theme for OR2024 is: "Empowering Global Progress"
 
 OR2024 provides an opportunity to explore and reflect on the ways repositories enable transparent and sustainable information and data. How can we better utilize repositories for empowering global progress? How can we develop the capacity of institutions to implement sustainable open repositories to improve data equity worldwide and support the SDGs? How can the repository community harness AI responsibly to support their goals?  We are interested in the following sub-themes:
-	- Transparency: Promoting research  transparency
-	- Community: Elevating underrepresented communities
-	- Sustainability: Opening research for climate justice
+ - Transparency: Promoting research  transparency
+ - Community: Elevating underrepresented communities
+ - Sustainability: Opening research for climate justice
 
 You will be asked to select a sub-theme at the time of submission.
 
@@ -29,10 +29,10 @@ Time
 Roundtable conversations will be 60 minutes 
 
 Proposal (No more than 2 pages)
-	- Tell us what will be covered in this roundtable. Why will your topic be of interest to the intended audience? Include figures and images if they will help reviewers evaluate the proposal content.
-	- Outline how you envision the discussion facilitators contributing to the overall discussion and why their perspective will be distinctive. All discussions are expected to be welcoming to diversity in viewpoints.
-	- What are examples of questions you will use to facilitate the conversation?
-	- All proposals should be in English and 2-3 pages in length.
+ - Tell us what will be covered in this roundtable. Why will your topic be of interest to the intended audience? Include figures and images if they will help reviewers evaluate the proposal content.
+ - Outline how you envision the discussion facilitators contributing to the overall discussion and why their perspective will be distinctive. All discussions are expected to be welcoming to diversity in viewpoints.
+ - What are examples of questions you will use to facilitate the conversation?
+ - All proposals should be in English and 2-3 pages in length.
 
 References, if applicable
 Use any clear unambiguous reference style you like.

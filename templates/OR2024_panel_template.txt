@@ -7,9 +7,9 @@ For authors: Follow the directions and where appropriate replace with your own c
 A reminder that the theme for OR2024 is: “Empowering Global Progress”
 
 OR2024 provides an opportunity to explore and reflect on the ways repositories enable transparent and sustainable information and data. How can we better utilize repositories for empowering global progress? How can we develop the capacity of institutions to implement sustainable open repositories to improve data equity worldwide and support the SDGs? How can the repository community harness AI responsibly to support their goals?  We are interested in the following sub-themes:
-	- Transparency: Promoting research  transparency
-	- Community: Elevating underrepresented communities
-	- Sustainability: Opening research for climate justice
+ - Transparency: Promoting research  transparency
+ - Community: Elevating underrepresented communities
+ - Sustainability: Opening research for climate justice
 
 You will be asked to select a sub-theme at the time of submission.
 
@@ -28,14 +28,14 @@ Tell us in a sentence or two who is the likely audience for this. Some examples 
 
 Time
 Please select a preferred time period.
-	- 60 minutes 
-	- 90 minutes
+ - 60 minutes 
+ - 90 minutes
 	
 Proposal (No more than 3 pages)
-	- Tell us what will be covered in this panel. Why will your topic be of interest to the intended audience? Include figures and images if they will help reviewers evaluate the proposal content.
-	- Outline how you envision each panelist contributing to the overall discussion and why their perspective will be distinctive. All panels are expected to include diversity in viewpoints, personal background, and gender of the panelists.
-	- Are you planning to engage your audience in some way during the panel?
-	- All proposals should be in English and 2-3 pages in length.
+ - Tell us what will be covered in this panel. Why will your topic be of interest to the intended audience? Include figures and images if they will help reviewers evaluate the proposal content.
+ - Outline how you envision each panelist contributing to the overall discussion and why their perspective will be distinctive. All panels are expected to include diversity in viewpoints, personal background, and gender of the panelists.
+ - Are you planning to engage your audience in some way during the panel?
+ - All proposals should be in English and 2-3 pages in length.
 
 References, if applicable
 Use any clear unambiguous reference style you like.
